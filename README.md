@@ -1,1 +1,1 @@
-# Andrusiak_gen-ai
+# Andrusiak, IPZ-41
