@@ -1,5 +1,6 @@
 # LLM Agentic Legal Information Retrieval 
 ## Andrusiak, IPZ-41
+## Dunets, IPZ-41
 
 ### Overview
 This competition challenges you to build an LLM-powered agentic legal information retrieval system for Swiss law.
